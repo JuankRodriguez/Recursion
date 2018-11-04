@@ -25,9 +25,9 @@ los cuales se busca que sean legibles y coherentes sin perder partes o alterar e
 
 
 2)	Posibles problemas:
-	Que el sistema no sea capaz de transformar la información de manera eficiente lo cual dañe 
-	el mensaje original y no se pueda recuperar los datos originales.
-?	Que las palabras se alteren o no salgan como se esperaban 
-?	Que no se logre traducir el mensaje ya transformado
-?	Que los caracteres no alfabéticos como los números o caracteres especiales no se logren transformar.  
+*	Que el sistema no sea capaz de transformar la información de manera eficiente lo cual dañe 
+el mensaje original y no se pueda recuperar los datos originales.
+*	Que las palabras se alteren o no salgan como se esperaban 
+*	Que no se logre traducir el mensaje ya transformado
+*	Que los caracteres no alfabéticos como los números o caracteres especiales no se logren transformar.  
 
