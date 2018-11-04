@@ -1,0 +1,26 @@
+28/Octubre/2018
+
+Matemáticas Aplicadas Y Ciencias de la Computación / MACC
+Primera Entrega Proyecto de Programación 2018-II
+
+Presentado por:                                                        Presentado a:
+Santiago Uribe Luna                                            José Julián Jiménez Rincón 
+Juan Camilo Rodríguez Jiménez
+
+
+Nota: El proyecto se va a basar en la propuesta dada por el profesor Julián acerca de tratar un tema no visto en la clase
+
+Como propuso el profesor en la clase, el proyecto se va a basar en la exposición del tema de “Recursión” 
+el cual se basa en la llamada de una función dentro de sí misma con el fin de que el código al no tener 
+que usar iteración hace que el código se vea más limpio y elegante.
+
+1)	Objetivos alcanzados: Se logró una comprensión básica con respecto al tema y desarrollo de ejemplos 
+que ilustran de forma clara y concisa la definición de lo que es y trata una función recursiva. 
+Además de que en el proceso se pudo identificar varias diferencias entre las funciones iterativas 
+y las funciones recursivas las cuales tienen un proceso y lógica completamente diferentes.
+
+2)	Nuevos objetivos: Como el proyecto se re-definió esto implico el planteamiento de nuevos retos y 
+de formas de investigación acerca del tema. Lo que se busca realizar ahora es una explicación completa de 
+este método lo que implica una investigación y comprensión a fondo del tema además de que se planea hacer 
+una comparación profunda entre funciones recursivas y funciones iterativas además del desarrollo de ejemplos 
+más complejos que evidencien la utilidad de este método    

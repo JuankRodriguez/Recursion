@@ -1,0 +1,33 @@
+28/Octubre/2018
+
+Matemáticas Aplicadas Y Ciencias de la Computación / MACC
+Primera Entrega Proyecto de Programación 2018-II
+
+Presentado por:                                                        Presentado a:
+Santiago Uribe Luna                                            José Julián Jiménez Rincón 
+Juan Camilo Rodríguez Jiménez
+
+
+1)	Objetivo del proyecto: 
+Hoy en día, en la sociedad se encuentran muchísimas formas de acceder a la información y 
+compartirla con otras personas. Eso se debe gracias a que el desarrollo de la tecnología 
+va a un ritmo tan apresurado que facilita el manejo de datos, pero a su vez esto genera 
+una gran brecha de seguridad pues las personas no saben si su información es segura o si 
+alguien externo es capaz de acceder a ella. 
+Esto se traduce en un gran problema de inseguridad el cual se quiere solucionar desarrollando 
+un método que busca poder hacer más seguros los datos de las personas transformando la 
+información para no tener problemas con terceros y que la información solo pueda ser legible 
+por el usuario.
+Se planea buscar distintos sistemas criptográficos para identificar diferentes formas de ocultar 
+información y pensar en formas de adaptar lo aprendido de ellos para crear un  sistema más 
+complejo que toma datos y los transforma para que solo los usuarios puedan leer estos mensajes 
+los cuales se busca que sean legibles y coherentes sin perder partes o alterar el mensaje original.
+
+
+2)	Posibles problemas:
+	Que el sistema no sea capaz de transformar la información de manera eficiente lo cual dañe 
+	el mensaje original y no se pueda recuperar los datos originales.
+?	Que las palabras se alteren o no salgan como se esperaban 
+?	Que no se logre traducir el mensaje ya transformado
+?	Que los caracteres no alfabéticos como los números o caracteres especiales no se logren transformar.  
+
