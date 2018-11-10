@@ -1,0 +1,11 @@
+Una forma de entender la recursion mas comprensible seria la siguiente historia:
+
+habia una pequeña niña que no podía dormir, entonces, su mamá le contó la historia de una ranita,
+	que no podía dormir, entonces, la mamá de la ranita le contó la historia de un osito,
+    		que no podía dormir, entonces, la mamá del osito le contó la historia de una pequeña comadreja...
+        		que se durmió.
+    		...y el pequeño osito se durmió;
+	...y la ranita se durmió;
+...y la niña se durmió.
+
+(Fuente: http://everything2.com/title/recursion)

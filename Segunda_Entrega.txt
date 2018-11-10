@@ -1,0 +1,21 @@
+28/Octubre/2018
+
+Matemáticas Aplicadas Y Ciencias de la Computación / MACC
+Primera Entrega Proyecto de Programación 2018-II
+
+Presentado por:                                                        Presentado a:
+Santiago Uribe Luna                                            José Julián Jiménez Rincón 
+Juan Camilo Rodríguez Jiménez
+
+
+Nota: El proyecto se va a basar en la propuesta dada por el profesor Julián acerca de tratar un tema no visto en la clase
+
+Esta semana se trabajó en investigar más a fondo acerca de la recursividad, como esta funciona y se estructura en la máquina. Además de desarrollar a más y diversos ejemplos para facilitar la comprensión del tema.
+
+1)	Objetivos alcanzados: Se logro identificar como es que una función recursiva se ejecuta en la maquina mediante ejemplos los cuales hacían sus respectivos procesos reconociendo que no siempre las funciones recursivas no son eficientes pues no siempre el método implementado es el más eficiente en cuestión del tiempo computacional y manejo de memoria lo cual demuestra que este método tiene que implementarse con mucho cuidado y estrategia para resolver el problema a atacar. (se desarrollaron ejemplos de estos casos específicos)
+
+2)	Nuevos objetivos:  Se planea diseñar más métodos para uso de recursión cada vez más complejos y mejor implementados además de buscar una forma de implementar búsqueda binaria con funciones recursivas el cual es un caso más complejo que los ya realizados.
+
+Dirección del repositorio:
+https://github.com/JuankRodriguez/Recursion-Tutorial
+     

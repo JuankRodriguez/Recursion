@@ -1,0 +1,6 @@
+La recursividad es una tecnica de programacion que tiene su fundamento en la induccion matematica.
+
+para que un problema pueda ser resuelto de forma recursiva, debe poder expresarse de
+
+-Un caso base: es un caso para el cual la resolucion es inmediata.
+-Una regla que se utiliza a si misma(recursion):es decir expresar la solucion usando su misma funcion.
