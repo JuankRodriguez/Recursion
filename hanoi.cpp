@@ -24,7 +24,7 @@ int main()
         cout<<"Los clavijas son A B C\n";
         cout<<"Numero de discos: ";
         cin>>n;
-        hanoi(n,'A','C','B');
+        hanoi(n,'A','C','B'); // desde A(inicial) hasta C(final) tomando B como temporal 
    return 0;      
 }
 /*Lo que realiza el anterior codigo es resolver a lo que son las trorres de hanoi donde en tres pilas; una con un numero n discos
